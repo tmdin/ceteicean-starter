@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Portraits Contemporains</title>
+            <author>Jacques Reynaud</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Figaro, 13 mai 1858</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information  about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div>
+           <head>PORTRAITS CONTEMPORAINS</head>
+
+<head>M. DE LAMARTINE
+
+<hi rend="italic">A monsieur le directeur du FIGARO</hi></head>,
+
+<head>PORTRAITS CONTEMPORAINS</head>
+
+<head><persName>M. DE LAMARTINE</persName>
+
+<hi rend="italic">A monsieur le directeur du FIGARO</hi></head>,
+
+	<p>Votre journal est connu par son impartialité, monsieur cha-
+cun y parle selon sa conviction, et c'est peut-être le seul entre
+tous où l'on retrouve le même homme, ou le même fait, blâmé
+avec excès ou loué avec passion à quelques lignes de distance.
+Cette tolérance, qui fait du <hi rend="italic">Figaro</hi> une sorte de <hi rend="italic">port franc</hi>,
+est une des conditions de son succès. Permettez-moi de l’invo-
+quer comme les autres et d'en profiter.</p>
+	<p>J'ai beaucoup vécu, j'ai connu beaucoup de gens et de cho-
+ses : retiré de la scène aujourd'hui, ou du moins très effacé par
+le besoin de repos qui nous arrive a un certain âge, je lis sou-
+vent des appréciations auxquelles je m'associe, d'autres qui me
+semblent erronées; j'éprouve le désir de dire mon mot, de pro-
+clamer ce que je crois la vérité sur ces gens et sur ces choses
+que j'ai connus, et j'ai pense qu'en m'adressant à vous cette
+vérité ne serait pas repoussée. Le grand dix-septième siècle avait
+la manie des portraits, il nous en a laissé une galerie presque
+complète, fournissant ainsi des matériaux à l’histoire.</p>
+	<p>Notre siècle, à nous, ne sera pas appelé grand par nos suc-
+cesseurs, je le crains ; mais, à défaut de grandeur, il aura des
+côtés intéressants et curieux auxquels nous pouvons répondre.
+Je n'ai pas la prétention de faire de l'histoire, ni même de la
+critique, <persName>Dieu</persName> m'en garde! j'ai simplement l'envie de crayonner
+quelques figures, dont une main plus habile composera plus
+tard un tableau. J'espère que vous ne repousserez pas ces es-
+quisses leur seul mérite sera d'être impartiales et conscien-
+cieuses.</p>
+	<p>Je commencerai par l'homme dont on parle le plus dans ce
+moment-ci, par <persName>M. de Lamartine</persName>, et, à ce sujet, veuillez bien
+accueillir d'abord ma profession de foi.</p>
+	<p>En traçant ces portraits, je me porte d'un demi-siècle en avant;
+j'écarte de ma pensée les préoccupations, les influences, les
+sympathies et les dégoûts ; je veux juger, autant que la faiblesse
+humaine le permet, sans aucun des intérêts qui nous attirent
+ou qui nous repoussent; je veux être sincère, plus éloigné pour-
+tant du pamphlet que de l'apothéose. Pour l'homme dont nous
+nous occuperons d'abord, en particulier, me préserve le ciel
+d'ajouter une amertume de plus à celles <hi rend="italic">dont il s'est abreuvé
+lui-même</hi>; cependant je dirai la vérité, sinon peut-être telle
+que je la pense, du moins telle que je la vois.</p>
+
+
+<ab>§I</ab>
+
+	<p><persName>Lamartine</persName> a fait deux parts de sa vie l'une toute de gloire
+et d'adorations; l'autre de douleurs, de déceptions, et, il faut
+l'avouer, de fautes et d'erreurs. <persName>Dieu</persName> l'a doué de cette nature
+décevante et superficielle, pleine de charme, d’entraînements,
+qui rend invariablement malheureux celui qui la possède et
+ceux qui s'attachent à lui. La faculté dominante chez presque
+tous les poètes est l'imagination doublée de la poésie, elle leur
+prête tout ce qui leur manque, elle leur donne tour à tour et
+suivant ses inspirations, du cœur, de la raison, du dévouement,
+de la force, de la grandeur. Ils peuvent tout concevoir et tout
+comprendre; ils sont à la hauteur de la situation, ou bien elle
+les écrase, toujours selon les besoins et les caprices de cette ima-
+gination insatiable.</p>
+	<p>Elle crée, elle devance les impressions, elle les saisit à sa ma-
+nière, elle est aveugle, elle plane sur le monde et le transforme; 
+la réalité ne lui apparait même pas quand les chimères sem-
+blent dispersées et impossibles : tel est ce guide inséparable du
+poète, et <persName>M. de Lamartine</persName> est plus poète que personne.</p>
+	<p>Oh ! la belle jeunesse que la sienne ! quels sentiers semés de
+fleurs quel ciel étoile quelle mer calme et bleue, et qu’il
+était doux de chanter sur ses bords ! Cette voix pure retentis-
+sant dans le silence des nuits, a dominé toute une génération,
+a fait vibrer jusqu'aux dernières fibres du cœur chez ceux qui
+l'écoutaient, religieusement penchés sur les urnes des tom-
+beaux, ou se promenant avec leur adorée sous les grands arbres.
+Pendant quinze ans, on a rêvé, on a souffert, d'après le bon
+plaisir du chantre du Lac : il nous a fascinés, éblouis.</p>
+	<p>On n'eût pas osé aimer en prose alors mesdames du <placeName>quartier
+Bréda</placeName> seraient mortes de faim sur les bornes, si <placeName>le quartier Bré-
+da</placeName> et ses conséquences eussent existé, bien entendu. Nous étions
+plus que romantiques, nous étions romanesques, nous étions ce
+qu'il voulait nous faire; nous le chérissions comme un ami,
+sans l'avoir jamais vu; nous l'appelions <hi rend="italic">notre <persName>Lamartine</persName></hi>, et
+plusieurs femmes nerveuses ont eu pour lui des amours éthérés,
+qui, pareilles à <persName>Junon</persName>, les transformaient en vapeurs, en nua-
+ges. On se mourait de la poitrine pour ressembler à <persName>Elvire</persName>, on
+était mince et diaphane, l'embonpoint paraissait une monstruo-
+sité ; le beau visage du poète, sa distinction, son élégance native
+auraient suffi pour tourner des têtes à moitié affolées; <hi rend="italic">Jocelyn,
+les Méditations</hi>surtout portèrent jusqu'au délire les transports
+qu'il inspira. Il a accueilli depuis un autre encens, celui de la
+popularité sa nature délicate a dû en apprécier la différence.
+S'il m'était permis d'employer une vulgaire comparaison, je di-
+rais que l'un était l'ivresse parfumée des vins de <placeName>Grèce</placeName> et d’<placeName>Es-
+pagne</placeName> et l'autre celle des breuvages frelatés de la barrière.</p>
+	<p>Cette ivresse dura jusqu'au moment où <hi rend="italic">la folle du logis</hi>en
+fut saturée; elle se lassa des couronnes de fleurs et tressa des
+couronnes de laurier pour ce front que le temps caressait de
+son aile. Les luttes et les victoires du forum lui parurent un
+complément radieux aux triomphes du Parnasse. Elle cacha la
+lyre sous la toge et conduisit son esclave à la tribune. Ne fal-
+lait il pas tout connaître, tout dévorer? Lorsqu'on a trempé ses
+lèvres dans cette coupe, la soif, loin d'être apaisée, devient tous
+les jours plus ardente. Après l'éloquence qui entraîne, elle vou-
+lut l'éloquence qui domine, elle aspira au premier rang, elle ou-
+blia le passé, elle l'effaça de sa mémoire et crut l'effacer de celle
+des autres; mais l'histoire est impitoyable, elle n'efface rient !
+<hi rend="italic">Les Girondins</hi>parurent! <hi rend="italic">les Girondins</hi>, ce livre séduisant et
+terrible, auquel nous devons peut-être les malheurs de 48. Il
+offrira une particularité singulière : c'est que chacun des jour-
+naux en donna des extraits conformes à son opinion. Les uns
+prirent le portrait de la reine et celui de <persName>Charlotte Corday</persName>; les
+autres celui de <persName>Camille Desmoulins</persName>, de <persName>Danton</persName> et de <persName>Robes-
+pierre</persName>; les modérés ceux de <persName>madame Roland</persName> et de <persName>Barnave</persName>.
+Prisme aux mille couleurs, ces pages chatoyaient à tous les re-
+gards, elles s'insinuaient dans tous les esprits; on ne s'en défia
+pas d'abord la réflexion seule et les événements découvrirent
+le poison brûlant la racine de cet arbuste chargé de si belles
+fleurs, dont les fruits donnèrent la mort. On sait ce qui arriva.
+Je ne suis pas ici pour raconter des faits, mais pour examiner
+un homme, et ma tâche devient de plus en plus difficile. Devant
+une idole tombée, comment lui reprocher sa chute? Devant ce-
+lui qui a cherché <hi rend="italic">à tout prix</hi>la célébrité <hi rend="italic">de tous</hi>les genres,
+comment lui dire <persName>Dieu</persName> vous a puni par l’oubli.</p>
+	<p>Vous avez bouleversé votre pays, vous avez contribué par
+votre exemple et votre immense talent à propager des doctrines
+funestes, vous avez cru dominer l'<placeName>Europe</placeName> entière, les cent bou-
+ches de la renommée ont crié votre nom jusqu'aux confins du
+monde, et maintenant pour attirer l'attention il vous faut avoir
+recours à des moyens qui, jadis, eussent fait refluer jusqu’au
+cœur votre sang de gentilhomme ; il vous faut galvaniser l’opi-
+nion ; elle retombe inerte, endormie, lorsque votre souffle puis-
+sant ne lui prête pas une vie éphémère. Quand <persName>Bélisaire</persName>, aveu-
+gle, mendiait par les chemins, un enfant portait son casque, un
+enfant invoquait pour lui la charité des voyageurs, le héros se
+taisait, sa misère et ses haillons étaient encore une gloire : vic-
+time de la tyrannie, il succomba sous des passions jalouses;
+Mais vous ! vous, que nous avons tant aimé, vous notre poète
+chéri, vous dont l'existence devait s'écouler si belle et si douce
+entre vos chants et nos adorations, qu'avez vous fait de vous
+même ? Que nous demandez-vous aujourd'hui? Nous jetons
+notre offrande dans le creux de votre lyre brisée et nous pas-
+sons en détournant la tête.</p>
+	<p>Ce qu'il y a de plus triste en l'appréciation qui nous est im-
+posée, c'est de ne pouvoir appliquer à ces grands maux la seule
+excuse qu'ils comportent : la conviction. <persName>M. de Lamartine</persName> a fait
+la république, et <persName>M. de Lamartine</persName> n'est pas républicain; il n’est
+pas monarchiste, il n'est pas constitutionnel, il n'a pas d’opi-
+nion arrêtée : c’est un miroir; il reflète ce qui se présente, le
+passé est là pour le prouver. Il a débuté dans la voie que son
+nom et ses précédents lui imposaient. Nous l'avons connu d’a-
+bord légitimiste, puis orléaniste, en passant par toutes les nuan-
+ces jusqu'à un libéralisme avancé, terminé par la démocratie.
+Les fauteurs des révolutions ont tous un but unique, une opi-
+nion positive : ils poursuivent le succès d'une idée ou le triom-
+phe d'une ambition personnelle. Si <persName>M. de Lamartine</persName> n'a pas
+l'une, faudrait-il supposer qu'il ait l'autre ? </p>
+
+<ab>§II</ab>
+
+	<p>Dans cette grande et splendide figure, l'homme politique,
+<hi rend="italic">l’homme public</hi>efface le particulier. On se préoccupe davan-
+tage de la statue du monument que de la statuette. Le carac-
+tère personnel de <persName>M. de Lamartine</persName> est l'objet de vives contra-
+dictions parmi ceux qui l'approchent et qui se vantent de le
+mieux connaître. Les uns le portent sur les nuées, comme les
+dieux de la fable, les autres le traînent prosaïquement sur la
+terre, suivant leurs froissements ou leur reconnaissance. Nous
+vous rapporterons ces jugements divers, nous ne vous impose-
+rons pas le nôtre, bien qu'il soit formé ou motivé par l’expé-
+rience et l’observation.</p>
+	<p>L’esprit de <persName>M. de Lamartine</persName> est plutôt méditatif que brillant,
+à moins qu'il ne se présente une polémique excitante ou qu’il
+ne soit débarrassé de ses préoccupations par une société qui lui
+plaît. Il a des mots profonds, des stigmates; ils frappent da-
+vantage à mesure qu'on y pense. Il n'est point gai à faire rire,
+il n'anime pas un cercle, il le subjugue, non pas parce qu’il
+parle trop, mais parce qu'on ne veut rien perdre de ce qu'il dit.
+Ce n'est pas une conversation légère ou badine, ce n'est pas un
+amusement, c'est un beau livre qu'on savoure feuille par feuille.
+Toute sa personne est harmonieuse.</p>
+	<p>L'esprit sied au visage, à la noble prestance du gentilhomme
+comme la distinction exquise du gentilhomme sied au génie du
+poète. Ceux qui le voient rarement, c'est-à-dire superficiellement,
+l'adorent, vous n'entendrez d'eux qu'un concert de louanges.
+La bonté, la douceur, le dévouement découlent de ses lèvres en
+merveilleuses paroles. Il a des explications, des excuses pour
+les anomalies de sa conduite. C'est un martyr, c'est un apôtre,
+la forme seule a varié chez lui, le but est resté le même : aris-
+tocrate ou démocrate, il n'en a eu qu'un seul : le progrès, le
+bonheur de l’humanité ; il y a consacré sa vie, sa fortune, il
+sent que sa vie et sa fortune y succomberont. Qu’importe ! il
+aura rempli sa tâche, puis il s'en ira demander
+
+« …Justice ou récompense
+» Au <persName>Dieu</persName> qui l'avait envoyé, »
+
+ainsi qu'il le dit lui-même dans son ode magnifique sur <persName>Bo-
+naparte</persName>.</p>
+	<p><hi rend="italic">On</hi>, cet être impalpable qui a toujours raison, à qui tout est
+permis, même les contradictions flagrantes, <hi rend="italic">on</hi>prétend que
+notre poète a beaucoup donné, qu'il a fait et fait encore un bien
+prodigieux autour de lui, que de cette munificence et de cette
+charité provient la gêne au secours de laquelle toute la France
+est conviée en ce moment.</p>
+	<p>D’un autre côté <hi rend="italic">on </hi>assure que le cœur de <persName>Raphaël</persName> fait plus de
+bruit que de besogne, <hi rend="italic">on </hi>parle de séides éprouvés, oubliés com-
+plètement aux jours de la puissance, <hi rend="italic">on </hi>cite des infortunes mé-
+connues, parce qu'elles étaient silencieuses et modestes, et qu’en
+les soulageant l'ami n'eût rien ajouté ni à sa popularité, ni à sa
+renommée. Au fond cette lyre mélodieuse aime peu de choses,
+excepté ses levrettes et sa personnalité, excepté ses rêves jamais 
+assouvis. Il y a dans cette organisation plus de pensées que de
+sentiments, ajoute-t-on. Je ne suis qu'un écho, je répète. Ce dont
+je ne doute pas, c'est que <persName>M. de Lamartine</persName> ne soit profondément
+malheureux, c'est qu'il ne souffre énormément, quelque hypo-
+thèse que l'on accepte.</p>
+	<p>Cette étoile a quitté le ciel pour la terre, cet ange a coupé ses
+ailes, il languit loin de la sphère éthérée qui est la sienne, il re-
+grette ses frères délaissés ; lui qui chantait pour le <persName>Seigneur</persName>,
+il ne peut faire comprendre aux hommes la langue divine qu’il
+possède si bien, il aspire sans cesse à remonter, et les misères de
+ce monde devenu le sien par sa chute le retiennent malgré lui.
+Ses couronnes de lauriers et ses couronnes de fleurs sont à pré-
+sent des couronnes d’épines.</p>
+	<p>Il doit avoir des heures terribles, ses heures de solitude et de
+comparaison. La mémoire doit être une torture incessante pour
+cette imagination forcée de regarder en arrière et d'écarter l’a-
+venir qui ne lui appartient plus. Il est doux en ce moment de
+se reporter vers une affection immuable, de s'appuyer au bras
+d'une femme aimante et sainte, d'y trouver la force qui man-
+que ailleurs. Cette consolation, <persName>Dieu</persName> l'a accordée au poète ; s’il
+ne chants plus pour la foule, il pleure sur un cœur dévoué.
+Combien lui envieraient cet asile!</p>
+
+<ab>§III</ab>
+
+	<p>Les habitudes de <persName>M. de Lamartine</persName> sont régulières et norma-
+les, il travaille beaucoup. Ce travail lui est facile, bien que
+l'inspiration soit moins complaisante qu'autrefois. Il aime le
+luxe. C'est un besoin qu'il ne pourra perdre. Il est pourtant
+fort simple en ses allures. En dépit des tendances qu'il affiche,
+des amitiés qu'il s'est créées, il est essentiellement aristocrate,
+par l'apparence du moins; son éducation n'a pu changer au gré
+des proclamations et des bulletins de 48. Ses manières sont cel-
+les d'un grand seigneur, dignes sans être compassées, gracieuses
+sans familiarité. Il recherche peu le monde, il aime ce que l’on
+appelait sous la Restauration <hi rend="italic">le petit château</hi>, une cour intime
+et choisie, où l'admiration et l'encens ne manquent pas, où la
+louange soit pourtant assaisonnée par le bon goût, où il puisse
+dire ce qu'il pense, en se faisant l'illusion de croire que les
+autres pensent ce qu'ils disent.</p>
+	<p><persName>M. de Lamartine</persName> sait ce qu'il vaut ; un juste orgueil est per-
+mis à ceux qui dominent leur époque. Cependant il n'affiche ni
+fausse modestie, ni amour-propre désordonné. Il est en cette
+matière, comme en tout ce qui tient au savoir-vivre, d'une me-
+sure parfaite. Il a fait preuve d'un grand courage, c'est de l’his-
+toire. On dit souvent qu'il nous a sauvés. Ne nous avait-il pas
+perdus d'abord? partant quittes. Pardonnez-moi de répéter un
+mot célèbre d'une femme d'esprit, il est à sa place parce qu’il
+est vrai <hi rend="italic">« C'est un incendiaire qui s'est fait pompier. »</hi>–
+Il se souvient parfois de son premier état.</p>
+	<p>Cet homme a beaucoup souffert, il n'a pas dans l'âme une
+goutte de fiel. Il est aussi loin de la méchanceté que de la four-
+berie. S'il n'a pas accompli le bien qu'il eût pu faire, au moins
+n'a-t-il jamais causé sciemment et volontairement de mal à per-
+sonne. Il est prodigue peut-être, à coup sûr il est désintéressé.
+Ces qualités éminentes dans les positions qu'il a occupées, ses
+ennemis mêmes ne les lui dénieront pas. Au total, il s'est plus
+trompé qu'il n'a cherché à tromper les autres.</p>
+	<p>Le grand tort de <persName>M. de Lamartine</persName> fut de naître à cette épo-
+que de transition et de bouleversements, où les capacités et les
+ambitions ont trouvé les portes ouvertes, où l'on a pu pénétrer
+de plain pied dans cette enceinte du pouvoir, réservée jadis à
+ceux que <persName>Dieu</persName> seul y voulait admettre, soit par le hasard de la
+naissance, soit par celui des événements, si rarement complices
+alors des envahissements et des surprises. Il y a deux cents ans,
+il n'eût été que poète et amoureux, quelque peu courtisan, pour
+faire comme les autres, pour attendre un rayon de soleil de la
+faveur, son rang eût été le premier dans cette pléiade que nous
+admirons encore. Quel enthousiasme  il eût inspiré aux belles
+dames ! quelle direction il eût donnée aux lettres ! C’est à en
+être ébloui quand on y songe.</p>
+	<p>Peut-être au temps de la Fronde, cette guerre de mots et de
+chansons, il eût tiré l'épée entre <persName>La Rochefoucauld</persName> et <persName>Bussy-
+Rabutin</persName>, qu'il écrase de sa grandeur. Il fût mort doucement
+sans avoir connu d'autres douleurs que les infidélités de ses
+maîtresses. On l'eût enseveli sous ses couronnes dont les lau-
+riers et les fleurs n'auraient pas caché une seule épine. On l’eût
+couché dans son drapeau, conservant la vieille devise des preux :
+<hi rend="italic">Mon Dieu, mon roi, ma dame.</hi></p>
+	<p>Hélas ! il n'en est pas ainsi. Pour me résumer en deux mots,
+voici ce que je mettrais au bas de cette statue, si j'étais la pos-
+térité : 
+Son génie fut à lui seul ; ses fautes furent celles de son temps.</p>
+	
+						<persName>JACQUES Reynaud</persName>.   
+         </div>
+      </body>
+  </text>
+</TEI>
